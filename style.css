@@ -48,4 +48,12 @@ body {
   width: 30px;
 }
 
+.call:hover {
+  transform: scale(1.3);
+}
+
+.message:hover {
+  transform: scale(1.3);
+}
+
 /* Tady napište své styly */
